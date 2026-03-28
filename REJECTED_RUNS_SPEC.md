@@ -5,6 +5,8 @@ This document defines the schema and fetching logic for "rejected" or manual run
 ## 1. Overview
 "Rejected" runs are manually added entries (typically from a GitHub-hosted JSON file) that represent runs that are not verified on the official speedrun.com (SRC) leaderboard but are trusted and recognized by the local community.
 
+Please consider joining the [discord](https://discord.gg/ctqTXu3UYD) if you want to get your unverifiable runs added to the leaderboard.
+
 ## 2. Fetching Logic
 The application fetches these runs from a remote JSON file on GitHub:
 - **URL:** `https://raw.githubusercontent.com/Aeroshide/mcsrindo-leaderboard-meta/main/rejected.json`
