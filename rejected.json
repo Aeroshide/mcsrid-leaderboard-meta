@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "manually_added_001",    
+    "player": "Cxrtxr",         
+    "time_ms": 519000,
+    "time_igt_ms": 506000,     
+    "country_code": "ID",           
+    "category": "rsg",              
+    "version": "1.16.1",            
+    "video": "",
+    "submitted": "2026-11-03T00:00:05Z", 
+    "seed": "-7835599812548145309"            
+  }
+]
