@@ -1,9 +1,10 @@
 [
   {
     "id": "manually_added_001",    
-    "player": "Cxrtxr",         
-    "time_ms": 519000,
-    "time_igt_ms": 506000,     
+    "player": "Cxrtxr",    
+    "playerLink": "https://www.speedrun.com/users/CxrtxR",     
+    "time_ms": 519844,
+    "time_igt_ms": 506389,     
     "country_code": "ID",           
     "category": "rsg",              
     "version": "1.16.1",            
